@@ -1,7 +1,7 @@
 function add (x, y) {
 
 	if(isNaN(x) && isNaN(y)) return;
-	
+	//asdasd
 	return x + y;
 }
 
